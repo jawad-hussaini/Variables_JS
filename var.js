@@ -1,7 +1,12 @@
 let x = 112;
+// let x = "asad";
+// x = "aliya"
 var y = 212;
+// var y = "asghar";
+// y = "amina"
 const z = 312;
-
+// const z = "ali";
+// z = "aliahmed"      .........can't reasigned or modify
 console.log(x);
 console.log(y);
 console.log(z);
